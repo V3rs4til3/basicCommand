@@ -1,0 +1,16 @@
+git command
+
+git add : ajouter un file a notre git
+
+git status : donne le status de note git
+
+git commit -m "message" : ajouter un message a notre git
+
+git remote origin nomDuGitHub.git : relier notre git sur le serveur
+
+git remote :
+
+git push origin master : pousser notre git sur le serveur
+
+
+
