@@ -13,7 +13,7 @@ listeFichier = array contenant les fichiers a supprimer
 
 rmdir : remove empty directory
 
-echo chmod : permission, exemple : u = rwx r = read  w = write x = execution 
+chmod : permission, exemple : u = rwx r = read  w = write x = execution 
 u = user/ g = group / o = others, chmod u=rwx g=rx o=r basicCommand.sh
 
 sudo : 
