@@ -16,4 +16,4 @@ echo sudo :
 
 echo mv : 
 
-echo pwd : 
+echo pwd : affiche le directory actuel
